@@ -1,0 +1,8 @@
+body {
+    margin: 0; /* Remove as margens padrão do corpo */
+    padding: 0; /* Remove os preenchimentos padrão do corpo */
+    background-image: url('caminho/para/sua/imagem.jpg');
+    background-size: cover; /* Para cobrir todo o fundo */
+    background-position: center; /* Para centralizar a imagem */
+    height: 100vh; /* Define a altura para ocupar 100% da altura da janela do navegador */
+}
